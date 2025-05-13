@@ -61,6 +61,11 @@ A real-time data warehouse and reporting solution built using Google BigQuery an
 🔗 Looker Studio Public Link → `LookerStudio_Link.txt`
 
 ---
+## 📸 Dashboard Preview
+
+![Retail Dashboard](Dashboard/retail_sales_dashboard.jpg)
+
+---
 
 ## 🙌 Author
 
